@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mikkosci
-- 👀 I’m interested in learning Android 
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning Python and SQL
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on SQL
+- 📫 How to reach me facebook.com/mikkomako14
 
 <!---
 Mikkosci/Mikkosci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
